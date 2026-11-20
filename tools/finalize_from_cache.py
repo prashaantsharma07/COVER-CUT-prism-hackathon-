@@ -3,7 +3,7 @@ run.sh computes). duration_sec comes from the Kaggle run's own JSON (ffprobe of 
 usage: python tools/finalize_from_cache.py <prism_results_dir> <out_dir>"""
 import json, os, sys
 import numpy as np
-H = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.join(H, "..", "TEAM_ID", "code"))
+H = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.join(H, "..", "GOLDEN_DAWN", "code"))
 from prism import heads, writer
 res, out = sys.argv[1], sys.argv[2]
 os.makedirs(out, exist_ok=True); n = 0

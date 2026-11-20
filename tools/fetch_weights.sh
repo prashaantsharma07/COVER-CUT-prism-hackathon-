@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Downloads model weights into TEAM_ID/weights/ so run.sh works offline.
+# Downloads model weights into GOLDEN_DAWN/weights/ so run.sh works offline.
 set -uo pipefail
-HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"; W="$HERE/../TEAM_ID/weights"; mkdir -p "$W"
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"; W="$HERE/../GOLDEN_DAWN/weights"; mkdir -p "$W"
 URL="https://dl.fbaipublicfiles.com/lavila/checkpoints/dual_encoders/ek100_cls/clip_openai_timesformer_base.ft_ek100_cls.ep_0100.md5sum_4e3575.pth"
 if [ ! -s "$W/action_tsfb_ek100.pt" ]; then
   echo "downloading LaViLa TimeSformer-B (EPIC-100 fine-tuned)"

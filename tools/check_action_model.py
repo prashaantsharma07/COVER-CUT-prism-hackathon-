@@ -5,7 +5,7 @@ usage: python tools/check_action_model.py [--max-clips 60] <video_dir> [...]"""
 import argparse, os, random, subprocess, sys
 import numpy as np
 H = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "TEAM_ID", "code"))
+sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "GOLDEN_DAWN", "code"))
 import gt as G
 
 ap = argparse.ArgumentParser(); ap.add_argument("dirs", nargs="+"); ap.add_argument("--max-clips", type=int, default=60)

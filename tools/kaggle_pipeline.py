@@ -101,7 +101,7 @@ def main():
     ensure_env(a.work, a.fake_models)
     resume(res)
     os.environ.update(PRISM_CACHE=cache, PRISM_BATCH=a.batch, PRISM_STRICT="1")
-    sys.path.insert(0, os.path.join(ROOT, "TEAM_ID", "code"))
+    sys.path.insert(0, os.path.join(ROOT, "GOLDEN_DAWN", "code"))
     if a.fake_models:
         sys.path.insert(0, H); import fake_models; fake_models.install(); log("FAKE MODELS: plumbing test only")
     from prism import main as M

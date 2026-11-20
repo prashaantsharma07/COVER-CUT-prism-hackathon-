@@ -6,7 +6,7 @@ import argparse, os, sys
 import numpy as np
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-sys.path.insert(0, os.path.join(HERE, "..", "TEAM_ID", "code"))
+sys.path.insert(0, os.path.join(HERE, "..", "GOLDEN_DAWN", "code"))
 import gt as G
 from prism import coverage, writer
 

@@ -2,12 +2,12 @@
 
 Checks the README rules plus things the official script may not: vocabulary
 membership, manifest coverage and duration agreement.
-usage: python tools/validate_strict.py --dir TEAM_ID/outputs --manifest data/manifest.csv
+usage: python tools/validate_strict.py --dir GOLDEN_DAWN/outputs --manifest data/manifest.csv
 """
 import argparse, csv, json, math, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CLASSES = os.path.join(HERE, "..", "TEAM_ID", "code", "prism", "supported_classes.json")
+CLASSES = os.path.join(HERE, "..", "GOLDEN_DAWN", "code", "prism", "supported_classes.json")
 
 
 def num(x):

@@ -1,14 +1,27 @@
 # CoverCut: Action-Coverage Summarization for First-Person Video
 
 **Samsung PRISM XR Hackathon 2026 · Track 04: Action-Aware Video Summarization**
-Thapar Institute of Engineering and Technology, Patiala
+Team **GOLDEN_DAWN**: Prashaant Sharma, Varun Joshi, Yatharth Joshi · Thapar Institute of Engineering and Technology, Patiala
+
+| Submission item | Where |
+| --- | --- |
+| Submission package (as per Track 04) | [`GOLDEN_DAWN/`](GOLDEN_DAWN): `run.sh`, `code/`, `weights/`, `requirements.txt`, `outputs/` (184 JSON), `README.md`, `Dockerfile` |
+| Source code | [`GOLDEN_DAWN/code/`](GOLDEN_DAWN/code) (pipeline) and [`tools/`](tools) (downloads, scoring, Kaggle run) |
+| Presentation | [`presentation/TIET_GOLDEN_DAWN.pdf`](presentation/TIET_GOLDEN_DAWN.pdf) · [`.pptx`](presentation/TIET_GOLDEN_DAWN.pptx) |
+| Demo video (1:52) | [`video/GOLDEN_DAWN_demo.mp4`](video/GOLDEN_DAWN_demo.mp4) |
+| AI disclosure | [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md) |
+| README | this file; submission-specific: [`GOLDEN_DAWN/README.md`](GOLDEN_DAWN/README.md) |
 
 CoverCut watches a first-person video, works out *what the wearer did* (verb + noun actions), and cuts a
 highlight reel of at most 15% of the video that covers as many **different** actions as possible.
 
 ```bash
-./TEAM_ID/run.sh video.mp4 out.json     # one video in, one JSON out, fully offline
+./GOLDEN_DAWN/run.sh video.mp4 out.json     # one video in, one JSON out, fully offline
 ```
+
+> Model weights (~1 GB) exceed GitHub's file limit, so `GOLDEN_DAWN/weights/` is filled by
+> `bash tools/fetch_weights.sh` (or `bash finish.sh`), which downloads the exact checkpoints listed in
+> `GOLDEN_DAWN/weights/SOURCES.md`.
 
 ![Architecture](docs/architecture.png)
 
@@ -60,7 +73,7 @@ F(S) = Σ_pairs [ 1 − Π_{w ∈ S} (1 − q(pair, w)) ]      subject to   Σ|w
 ```
 
 `F` is monotone submodular, so greedy selection by marginal gain per second is within **(1 − 1/e)** of
-optimal. Implementation: [`TEAM_ID/code/prism/coverage.py`](TEAM_ID/code/prism/coverage.py).
+optimal. Implementation: [`GOLDEN_DAWN/code/prism/coverage.py`](GOLDEN_DAWN/code/prism/coverage.py).
 
 ## Pipeline
 
@@ -98,7 +111,7 @@ No ground-truth file is read by the submitted code (`tools/integrity_check.sh` e
 ## Repository layout
 
 ```
-TEAM_ID/                 the submission package
+GOLDEN_DAWN/             the submission package (Track 04 layout)
   run.sh                 ./run.sh <video.mp4> <out.json>
   code/prism/            pipeline (features, heads, coverage selector, writer)
   code/third_party/      vendored LaViLa TimeSformer (MIT)
@@ -108,18 +121,21 @@ TEAM_ID/                 the submission package
 tools/                   team tooling: downloads, scorer, tuning, Kaggle pipeline, integrity check
 kaggle/                  the notebook used for the full GPU run
 data/manifest.csv        the official video list
+presentation/            deck: TIET_GOLDEN_DAWN.pdf / .pptx
+video/                   demo video
 docs/                    architecture figure, score report, workspace guide
+AI_DISCLOSURE.md         how AI tools were used
 ```
 
 ## Reproduce
 
 ```bash
-bash tools/fetch_weights.sh                          # LaViLa TimeSformer-B + SigLIP into TEAM_ID/weights
-./TEAM_ID/run.sh /path/to/P28_20.MP4 out.json        # any manifest video
+bash setup.sh --no-download && bash finish.sh       # env, annotations, weights, checks, package
+./GOLDEN_DAWN/run.sh /path/to/P28_20.MP4 out.json        # any manifest video
 ```
 
 Full run on a free GPU: [`kaggle/prism_kaggle.ipynb`](kaggle/prism_kaggle.ipynb) (instructions in
-[`docs/WORKSPACE.md`](docs/WORKSPACE.md)). Score locally with `python tools/score.py --pred TEAM_ID/outputs`.
+[`docs/WORKSPACE.md`](docs/WORKSPACE.md)). Score locally with `python tools/score.py --pred GOLDEN_DAWN/outputs`.
 
 ## Limitations
 

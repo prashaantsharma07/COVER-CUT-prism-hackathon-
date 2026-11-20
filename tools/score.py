@@ -1,7 +1,7 @@
 """Local re-implementation of the four Track 04 metrics. Assumptions are marked ASSUMPTION;
 confirm them with the organizers and change them here.
 
-usage: python tools/score.py --pred TEAM_ID/outputs [--split A|B] [--coverage-rule half] [--per-video out.csv]
+usage: python tools/score.py --pred GOLDEN_DAWN/outputs [--split A|B] [--coverage-rule half] [--per-video out.csv]
 """
 import argparse, json, os, sys
 import numpy as np

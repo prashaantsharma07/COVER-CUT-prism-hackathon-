@@ -21,6 +21,6 @@ PY
 fail=0
 while read -r vid path; do
   [ -s "$OUT/$vid.json" ] && continue
-  "$HERE/../TEAM_ID/run.sh" "$path" "$OUT/$vid.json" || { echo "FAILED $vid"; fail=$((fail+1)); }
+  "$HERE/../GOLDEN_DAWN/run.sh" "$path" "$OUT/$vid.json" || { echo "FAILED $vid"; fail=$((fail+1)); }
 done < /tmp/prism_runlist.txt
 echo "run_all finished, $fail failures"

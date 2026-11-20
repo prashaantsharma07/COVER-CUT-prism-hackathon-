@@ -3,7 +3,7 @@
 set -uo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")"
 . .venv/bin/activate
-pip install -q -r TEAM_ID/requirements.txt huggingface_hub || { echo "pip install failed"; exit 1; }
+pip install -q -r GOLDEN_DAWN/requirements.txt huggingface_hub || { echo "pip install failed"; exit 1; }
 python - <<'PY'
 import torch
 print("torch", torch.__version__, "| cuda available:", torch.cuda.is_available(),

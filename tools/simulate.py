@@ -5,7 +5,7 @@ usage: python tools/simulate.py <out_dir> [--acc-v 0.65 --acc-n 0.55] [selector/
 import argparse, os, sys
 import numpy as np
 H = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "TEAM_ID", "code"))
+sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "GOLDEN_DAWN", "code"))
 import gt as G
 from prism import actions, coverage, writer
 

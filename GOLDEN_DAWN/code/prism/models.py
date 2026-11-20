@@ -1,4 +1,4 @@
-"""Model loading. Everything loads from TEAM_ID/weights/ (no network)."""
+"""Model loading. Everything loads from GOLDEN_DAWN/weights/ (no network)."""
 import os
 
 import numpy as np

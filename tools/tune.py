@@ -3,7 +3,7 @@ usage: python tools/tune.py <cache_dir> <grid_name>"""
 import os, sys, itertools, json
 import numpy as np
 H = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "TEAM_ID", "code"))
+sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "GOLDEN_DAWN", "code"))
 import gt as G, score as S
 from prism import heads, writer
 cache = sys.argv[1]

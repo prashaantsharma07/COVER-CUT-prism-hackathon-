@@ -1,7 +1,7 @@
 """Write baseline JSONs for all manifest videos WITHOUT the videos, using manifest durations.
 For testing the writer, validator and scorer only. Never submit these outputs."""
 import csv, os, sys
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "TEAM_ID", "code"))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "GOLDEN_DAWN", "code"))
 from prism import baseline, writer
 
 man, out = sys.argv[1], sys.argv[2]

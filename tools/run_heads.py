@@ -3,7 +3,7 @@ usage: python tools/run_heads.py <cache_dir> <out_dir> [--set COVER_RULE=any --s
 import argparse, ast, os, sys
 import numpy as np
 H = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "TEAM_ID", "code"))
+sys.path.insert(0, H); sys.path.insert(0, os.path.join(H, "..", "GOLDEN_DAWN", "code"))
 import gt as G
 from prism import heads, writer
 

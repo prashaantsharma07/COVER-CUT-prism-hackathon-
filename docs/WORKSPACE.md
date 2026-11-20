@@ -1,7 +1,7 @@
 # PRISM 2026 Track 04: team workspace
 
-`TEAM_ID/` is the submission (rename to the official team ID and `export PRISM_TEAM_ID=<id>`).
-`tools/`, `data/`, `ext/` are team-only (downloads, scoring, ground truth). Never copy them into `TEAM_ID/`.
+`GOLDEN_DAWN/` is the submission package (team ID already set).
+`tools/`, `data/`, `ext/` are team-only (downloads, scoring, ground truth). Never copy them into `GOLDEN_DAWN/`.
 
 ## Do these in order
 ```bash
@@ -38,15 +38,15 @@ python tools/score.py --pred work/try --split A      # tune on A (odd participan
 python tools/score.py --pred work/try --split B      # ... confirm on B
 ```
 Settable: `ACT_TOPK`, `COVER_RULE` (any|half|full), `COVER_MODE` (span|center), `COVER_MAX_LEN`,
-`FPV_WEIGHTS` (motion, semantic, event), `FPV_SEG_LEN`, `SCALES`. Put the winners in `TEAM_ID/code/prism/config.py`.
+`FPV_WEIGHTS` (motion, semantic, event), `FPV_SEG_LEN`, `SCALES`. Put the winners in `GOLDEN_DAWN/code/prism/config.py`.
 
 ## 5. Before submitting
 ```bash
-export PRISM_TEAM_ID=<official id>
-rm -rf TEAM_ID/outputs && bash tools/run_all.sh TEAM_ID/outputs videos/epic_256 videos/epic_raw videos/fpvsum
-python validate.py --dir TEAM_ID/outputs/          # official validator from the student kit
+export PRISM_TEAM_ID=GOLDEN_DAWN
+rm -rf GOLDEN_DAWN/outputs && bash tools/run_all.sh GOLDEN_DAWN/outputs videos/epic_256 videos/epic_raw videos/fpvsum
+python validate.py --dir GOLDEN_DAWN/outputs/          # official validator from the student kit
 bash tools/integrity_check.sh
-(cd TEAM_ID && pip freeze > requirements.txt)
+(cd GOLDEN_DAWN && pip freeze > requirements.txt)
 ```
 
 ## What is tested and what is not (13 Nov)
@@ -63,8 +63,8 @@ bash tools/integrity_check.sh
 
 ## Final results (20 Nov)
 Kaggle full run (T4, 6.3 h): 184/187 videos, 29.72. After tuning on the cache: **30.53** (half rule),
-36.44 (any-overlap rule), 24.38 (full containment). Final outputs: `TEAM_ID/outputs/` (184 files).
-Rebuild them: `python tools/finalize_from_cache.py <prism_results> TEAM_ID/outputs`. Tuning: `tools/tune.py`.
+36.44 (any-overlap rule), 24.38 (full containment). Final outputs: `GOLDEN_DAWN/outputs/` (184 files).
+Rebuild them: `python tools/finalize_from_cache.py <prism_results> GOLDEN_DAWN/outputs`. Tuning: `tools/tune.py`.
 
 ## Reference numbers
 | Predictions | Action mAP | Coverage (half) | Highlight F1 | Label | Total |

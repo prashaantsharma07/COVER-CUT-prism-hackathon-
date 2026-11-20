@@ -7,5 +7,7 @@ scratch/
 *.npz
 __pycache__/
 *.pyc
-TEAM_ID/weights/*
-!TEAM_ID/weights/.gitkeep
+GOLDEN_DAWN/weights/*
+!GOLDEN_DAWN/weights/.gitkeep
+!video/GOLDEN_DAWN_demo.mp4
+!GOLDEN_DAWN/weights/SOURCES.md
