@@ -6,7 +6,7 @@ URL="https://dl.fbaipublicfiles.com/lavila/checkpoints/dual_encoders/ek100_cls/c
 if [ ! -s "$W/action_tsfb_ek100.pt" ]; then
   echo "downloading LaViLa TimeSformer-B (EPIC-100 fine-tuned)"
   wget -q --show-progress -c -O "$W/raw_lavila.pth" "$URL" || { echo "download failed"; exit 1; }
-  python - "$W" <<'PY'
+  "${PYTHON:-python3}" - "$W" <<'PY'
 import sys, torch
 w = sys.argv[1]
 ck = torch.load(w + "/raw_lavila.pth", map_location="cpu", weights_only=False)
@@ -23,7 +23,7 @@ PY
 fi
 if [ ! -d "$W/siglip" ]; then
   echo "downloading SigLIP base"
-  python - "$W" <<'PY'
+  "${PYTHON:-python3}" - "$W" <<'PY'
 import sys
 from huggingface_hub import snapshot_download
 snapshot_download("google/siglip-base-patch16-224", local_dir=sys.argv[1] + "/siglip",

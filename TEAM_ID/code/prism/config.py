@@ -1,7 +1,7 @@
 import os
 
 # Set via env var or edit before submission. Must be identical across all files.
-TEAM_ID = os.environ.get("PRISM_TEAM_ID", "TEAM_ID_PLACEHOLDER")
+TEAM_ID = os.environ.get("PRISM_TEAM_ID", "GOLDEN_DAWN")
 
 BUDGET_FRAC = 0.15          # official highlight budget
 TARGET_FRAC = 0.149         # stay just under the budget
