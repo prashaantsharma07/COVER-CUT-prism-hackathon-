@@ -9,7 +9,7 @@ export PYTHON=python
 echo "== 1/5 installing PyTorch (CPU) and helpers into .venv"
 pip install -q -U pip
 pip install -q torch --index-url https://download.pytorch.org/whl/cpu || { echo "torch install failed"; exit 1; }
-pip install -q numpy huggingface_hub || exit 1
+pip install -q numpy pandas huggingface_hub || exit 1
 echo "== 2/5 setting team_id = $TEAM"
 python tools/set_team_id.py "$TEAM"
 echo "== 3/5 model weights"
