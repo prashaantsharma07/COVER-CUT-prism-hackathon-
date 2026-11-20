@@ -1,0 +1,24 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Surfing_7bzMGVKaiCQ",
+ "duration_sec": 68.94,
+ "label": {
+  "name": "surfing",
+  "score": 0.86
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    45.0,
+    50.0
+   ]
+  },
+  {
+   "segment": [
+    64.0,
+    68.94
+   ]
+  }
+ ]
+}

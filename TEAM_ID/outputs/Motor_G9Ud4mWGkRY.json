@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Motor_G9Ud4mWGkRY",
+ "duration_sec": 144.31,
+ "label": {
+  "name": "motor",
+  "score": 0.89
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    9.0,
+    14.0
+   ]
+  },
+  {
+   "segment": [
+    46.0,
+    51.0
+   ]
+  },
+  {
+   "segment": [
+    67.0,
+    72.0
+   ]
+  },
+  {
+   "segment": [
+    88.0,
+    93.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Horse_C_2MSagUvms",
+ "duration_sec": 165.35,
+ "label": {
+  "name": "horse",
+  "score": 0.73
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    67.0,
+    72.0
+   ]
+  },
+  {
+   "segment": [
+    111.0,
+    116.0
+   ]
+  },
+  {
+   "segment": [
+    121.0,
+    126.0
+   ]
+  },
+  {
+   "segment": [
+    147.0,
+    152.0
+   ]
+  }
+ ]
+}

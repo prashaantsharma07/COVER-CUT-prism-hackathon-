@@ -1,0 +1,1375 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "P28_24",
+ "duration_sec": 68.27,
+ "label": {
+  "name": "cooking",
+  "score": 1.0
+ },
+ "actions": [
+  {
+   "segment": [
+    46.0,
+    65.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.81
+  },
+  {
+   "segment": [
+    44.0,
+    66.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.78
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.71
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.7
+  },
+  {
+   "segment": [
+    12.0,
+    37.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.61
+  },
+  {
+   "segment": [
+    10.0,
+    38.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.56
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.52
+  },
+  {
+   "segment": [
+    41.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.41
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.38
+  },
+  {
+   "segment": [
+    38.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.38
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.37
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.31
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.3
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.3
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.26
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.26
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.26
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.24
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.24
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.22
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.18
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.17
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.16
+  },
+  {
+   "segment": [
+    0.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.15
+  },
+  {
+   "segment": [
+    10.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.14
+  },
+  {
+   "segment": [
+    37.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.13
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.12
+  },
+  {
+   "segment": [
+    0.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.12
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "tomato",
+   "score": 0.11
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.11
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.09
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.09
+  },
+  {
+   "segment": [
+    1.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    4.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "tomato",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    38.0,
+    44.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "remove",
+   "noun": "tomato",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    37.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "skin",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "plate",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pepper",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "pepper",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "plate",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "microwave",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    25.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    38.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    20.0,
+    25.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "insert",
+   "noun": "pepper",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    37.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    58.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "check",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    27.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "check",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    46.0,
+    56.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "apple",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    18.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "turn-on",
+   "noun": "microwave",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    23.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "squash",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    32.0
+   ],
+   "verb": "cut",
+   "noun": "squash",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    38.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "wrap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "meat",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "microwave",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    5.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "avocado",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "cut",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "wrap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "wash",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    5.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "apple",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "cut",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    66.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "pizza",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "squash",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "turn-on",
+   "noun": "cupboard",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "cut",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    13.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "scrape",
+   "noun": "pepper",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "squash",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "tomato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "shell:egg",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    9.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "seed",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    64.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "throw",
+   "noun": "shell:egg",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "apple",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "cut",
+   "noun": "pizza",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "orange",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    1.0,
+    5.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    60.0,
+    64.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "check",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "onion",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "eat",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "fork",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "grape",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "avocado",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "label",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "look",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "meat",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "throw",
+   "noun": "seed",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "apple",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "avocado",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "apple",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "squash",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "kiwi",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "pepper",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "wrap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.0
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    2.98,
+    7.02
+   ]
+  },
+  {
+   "segment": [
+    41.5,
+    46.5
+   ]
+  }
+ ]
+}

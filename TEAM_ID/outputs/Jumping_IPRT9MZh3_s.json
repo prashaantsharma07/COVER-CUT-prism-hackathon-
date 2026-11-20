@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Jumping_IPRT9MZh3_s",
+ "duration_sec": 175.8,
+ "label": {
+  "name": "jumping",
+  "score": 0.86
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    0.0,
+    5.0
+   ]
+  },
+  {
+   "segment": [
+    82.0,
+    87.0
+   ]
+  },
+  {
+   "segment": [
+    114.0,
+    124.0
+   ]
+  },
+  {
+   "segment": [
+    133.0,
+    138.0
+   ]
+  }
+ ]
+}

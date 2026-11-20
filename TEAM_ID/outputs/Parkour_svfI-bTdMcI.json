@@ -1,0 +1,48 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Parkour_svfI-bTdMcI",
+ "duration_sec": 202.62,
+ "label": {
+  "name": "parkour",
+  "score": 0.47
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    41.0,
+    46.0
+   ]
+  },
+  {
+   "segment": [
+    92.0,
+    97.0
+   ]
+  },
+  {
+   "segment": [
+    116.0,
+    121.0
+   ]
+  },
+  {
+   "segment": [
+    131.0,
+    136.0
+   ]
+  },
+  {
+   "segment": [
+    139.0,
+    144.0
+   ]
+  },
+  {
+   "segment": [
+    167.0,
+    172.0
+   ]
+  }
+ ]
+}

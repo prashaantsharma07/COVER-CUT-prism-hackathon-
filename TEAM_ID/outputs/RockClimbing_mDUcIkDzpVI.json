@@ -1,0 +1,72 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "RockClimbing_mDUcIkDzpVI",
+ "duration_sec": 377.07,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.84
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    20.0,
+    25.0
+   ]
+  },
+  {
+   "segment": [
+    32.0,
+    37.0
+   ]
+  },
+  {
+   "segment": [
+    49.0,
+    54.0
+   ]
+  },
+  {
+   "segment": [
+    81.0,
+    86.0
+   ]
+  },
+  {
+   "segment": [
+    115.0,
+    125.0
+   ]
+  },
+  {
+   "segment": [
+    138.0,
+    143.0
+   ]
+  },
+  {
+   "segment": [
+    154.0,
+    159.0
+   ]
+  },
+  {
+   "segment": [
+    171.0,
+    176.0
+   ]
+  },
+  {
+   "segment": [
+    180.0,
+    185.0
+   ]
+  },
+  {
+   "segment": [
+    201.0,
+    206.0
+   ]
+  }
+ ]
+}

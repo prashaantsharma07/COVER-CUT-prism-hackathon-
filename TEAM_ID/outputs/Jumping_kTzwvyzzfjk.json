@@ -1,0 +1,24 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Jumping_kTzwvyzzfjk",
+ "duration_sec": 83.73,
+ "label": {
+  "name": "jumping",
+  "score": 0.65
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    4.0,
+    9.0
+   ]
+  },
+  {
+   "segment": [
+    54.0,
+    59.0
+   ]
+  }
+ ]
+}

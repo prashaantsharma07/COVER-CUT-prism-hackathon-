@@ -1,0 +1,48 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Longboarding_vaJPwfOt7Bs",
+ "duration_sec": 202.76,
+ "label": {
+  "name": "longboarding",
+  "score": 0.85
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    63.0,
+    68.0
+   ]
+  },
+  {
+   "segment": [
+    80.0,
+    85.0
+   ]
+  },
+  {
+   "segment": [
+    98.0,
+    103.0
+   ]
+  },
+  {
+   "segment": [
+    124.0,
+    129.0
+   ]
+  },
+  {
+   "segment": [
+    136.0,
+    141.0
+   ]
+  },
+  {
+   "segment": [
+    152.0,
+    157.0
+   ]
+  }
+ ]
+}

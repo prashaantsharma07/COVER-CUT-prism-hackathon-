@@ -1,0 +1,54 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Bike_lhTFVa0h9Rk",
+ "duration_sec": 287.51,
+ "label": {
+  "name": "motor",
+  "score": 0.4
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    8.0,
+    13.0
+   ]
+  },
+  {
+   "segment": [
+    56.0,
+    66.0
+   ]
+  },
+  {
+   "segment": [
+    82.0,
+    87.0
+   ]
+  },
+  {
+   "segment": [
+    171.0,
+    176.0
+   ]
+  },
+  {
+   "segment": [
+    177.0,
+    182.0
+   ]
+  },
+  {
+   "segment": [
+    232.0,
+    237.0
+   ]
+  },
+  {
+   "segment": [
+    243.0,
+    248.0
+   ]
+  }
+ ]
+}

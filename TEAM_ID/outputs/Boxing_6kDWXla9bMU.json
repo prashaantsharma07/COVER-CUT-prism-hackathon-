@@ -1,0 +1,66 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Boxing_6kDWXla9bMU",
+ "duration_sec": 345.4,
+ "label": {
+  "name": "boxing",
+  "score": 0.97
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    50.0,
+    60.0
+   ]
+  },
+  {
+   "segment": [
+    67.0,
+    72.0
+   ]
+  },
+  {
+   "segment": [
+    78.0,
+    83.0
+   ]
+  },
+  {
+   "segment": [
+    179.0,
+    184.0
+   ]
+  },
+  {
+   "segment": [
+    215.0,
+    220.0
+   ]
+  },
+  {
+   "segment": [
+    228.0,
+    233.0
+   ]
+  },
+  {
+   "segment": [
+    251.0,
+    256.0
+   ]
+  },
+  {
+   "segment": [
+    324.0,
+    329.0
+   ]
+  },
+  {
+   "segment": [
+    333.0,
+    338.0
+   ]
+  }
+ ]
+}

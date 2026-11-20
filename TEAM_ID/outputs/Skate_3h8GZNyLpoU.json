@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Skate_3h8GZNyLpoU",
+ "duration_sec": 136.44,
+ "label": {
+  "name": "skate",
+  "score": 0.7
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    66.0,
+    71.0
+   ]
+  },
+  {
+   "segment": [
+    88.0,
+    93.0
+   ]
+  },
+  {
+   "segment": [
+    99.0,
+    104.0
+   ]
+  },
+  {
+   "segment": [
+    129.0,
+    134.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Plane_Yz4CYVdRvvU",
+ "duration_sec": 111.41,
+ "label": {
+  "name": "plane",
+  "score": 0.36
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    52.0,
+    57.0
+   ]
+  },
+  {
+   "segment": [
+    58.0,
+    63.0
+   ]
+  },
+  {
+   "segment": [
+    98.0,
+    103.0
+   ]
+  }
+ ]
+}

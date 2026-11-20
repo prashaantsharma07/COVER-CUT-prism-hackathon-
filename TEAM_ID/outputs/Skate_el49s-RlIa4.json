@@ -1,0 +1,18 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Skate_el49s-RlIa4",
+ "duration_sec": 37.34,
+ "label": {
+  "name": "skate",
+  "score": 0.57
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    5.0,
+    10.0
+   ]
+  }
+ ]
+}

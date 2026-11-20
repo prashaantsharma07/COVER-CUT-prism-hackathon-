@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Bike_OeE9EIIKmrA",
+ "duration_sec": 226.7,
+ "label": {
+  "name": "bike",
+  "score": 0.46
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    4.0,
+    9.0
+   ]
+  },
+  {
+   "segment": [
+    35.0,
+    40.0
+   ]
+  },
+  {
+   "segment": [
+    90.0,
+    100.0
+   ]
+  },
+  {
+   "segment": [
+    158.0,
+    168.0
+   ]
+  }
+ ]
+}

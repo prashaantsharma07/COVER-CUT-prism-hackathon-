@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Horse_7ZzWccM_5cM",
+ "duration_sec": 146.24,
+ "label": {
+  "name": "horse",
+  "score": 0.88
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    51.0,
+    56.0
+   ]
+  },
+  {
+   "segment": [
+    65.0,
+    70.0
+   ]
+  },
+  {
+   "segment": [
+    75.0,
+    80.0
+   ]
+  },
+  {
+   "segment": [
+    96.0,
+    101.0
+   ]
+  }
+ ]
+}

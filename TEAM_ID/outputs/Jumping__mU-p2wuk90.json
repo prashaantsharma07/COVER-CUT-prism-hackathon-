@@ -1,0 +1,30 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Jumping__mU-p2wuk90",
+ "duration_sec": 131.75,
+ "label": {
+  "name": "jumping",
+  "score": 0.82
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    37.0,
+    42.0
+   ]
+  },
+  {
+   "segment": [
+    84.0,
+    89.0
+   ]
+  },
+  {
+   "segment": [
+    92.0,
+    97.0
+   ]
+  }
+ ]
+}

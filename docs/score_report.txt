@@ -1,0 +1,6 @@
+videos: 138 EPIC (GT for 138), 49 FPVSum (GT for 49); missing/invalid predictions: 3
+  Action mAP   (25%)  0.1142   [verb 0.1292, noun 0.1430; @0.1:0.155, @0.2:0.138, @0.3:0.116, @0.4:0.092, @0.5:0.070]
+  Coverage     (40%)  0.3212   [rule=half; any 0.4690, half 0.3212, full 0.1675]
+  Highlight F1 (25%)  0.2500
+  Label acc    (10%)  0.8571
+  TOTAL               30.53 / 100

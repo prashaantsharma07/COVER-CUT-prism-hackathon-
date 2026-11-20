@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Ski_UYmcm5bKvxk",
+ "duration_sec": 158.52,
+ "label": {
+  "name": "ski",
+  "score": 0.85
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    72.0,
+    77.0
+   ]
+  },
+  {
+   "segment": [
+    106.0,
+    111.0
+   ]
+  },
+  {
+   "segment": [
+    118.0,
+    123.0
+   ]
+  },
+  {
+   "segment": [
+    132.0,
+    137.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "BikePolo_DHbYfmjX3WQ_3",
+ "duration_sec": 169.78,
+ "label": {
+  "name": "bikepolo",
+  "score": 0.85
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    4.0,
+    9.0
+   ]
+  },
+  {
+   "segment": [
+    77.0,
+    82.0
+   ]
+  },
+  {
+   "segment": [
+    103.0,
+    108.0
+   ]
+  },
+  {
+   "segment": [
+    111.0,
+    116.0
+   ]
+  },
+  {
+   "segment": [
+    150.0,
+    155.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "RockClimbing_EaKtFLoXTCI",
+ "duration_sec": 374.0,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.39
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    57.0,
+    62.0
+   ]
+  },
+  {
+   "segment": [
+    72.0,
+    82.0
+   ]
+  },
+  {
+   "segment": [
+    85.0,
+    90.0
+   ]
+  },
+  {
+   "segment": [
+    99.0,
+    104.0
+   ]
+  },
+  {
+   "segment": [
+    108.0,
+    113.0
+   ]
+  },
+  {
+   "segment": [
+    148.0,
+    153.0
+   ]
+  },
+  {
+   "segment": [
+    192.0,
+    197.0
+   ]
+  },
+  {
+   "segment": [
+    243.0,
+    248.0
+   ]
+  },
+  {
+   "segment": [
+    253.0,
+    263.0
+   ]
+  }
+ ]
+}

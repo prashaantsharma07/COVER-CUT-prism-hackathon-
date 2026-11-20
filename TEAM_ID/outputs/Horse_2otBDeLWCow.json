@@ -1,0 +1,42 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Horse_2otBDeLWCow",
+ "duration_sec": 248.24,
+ "label": {
+  "name": "horse",
+  "score": 0.69
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    11.0,
+    21.0
+   ]
+  },
+  {
+   "segment": [
+    31.0,
+    36.0
+   ]
+  },
+  {
+   "segment": [
+    125.0,
+    130.0
+   ]
+  },
+  {
+   "segment": [
+    163.0,
+    168.0
+   ]
+  },
+  {
+   "segment": [
+    171.0,
+    181.0
+   ]
+  }
+ ]
+}

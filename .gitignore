@@ -1,0 +1,11 @@
+ext/
+videos/
+work/
+scratch/
+*.mp4
+*.MP4
+*.npz
+__pycache__/
+*.pyc
+TEAM_ID/weights/*
+!TEAM_ID/weights/.gitkeep

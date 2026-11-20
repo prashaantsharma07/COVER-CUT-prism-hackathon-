@@ -1,0 +1,48 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Horse_PEekyTcA8FU",
+ "duration_sec": 229.13,
+ "label": {
+  "name": "horse",
+  "score": 0.82
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    56.0,
+    61.0
+   ]
+  },
+  {
+   "segment": [
+    119.0,
+    124.0
+   ]
+  },
+  {
+   "segment": [
+    186.0,
+    191.0
+   ]
+  },
+  {
+   "segment": [
+    195.0,
+    200.0
+   ]
+  },
+  {
+   "segment": [
+    202.0,
+    207.0
+   ]
+  },
+  {
+   "segment": [
+    222.0,
+    227.0
+   ]
+  }
+ ]
+}

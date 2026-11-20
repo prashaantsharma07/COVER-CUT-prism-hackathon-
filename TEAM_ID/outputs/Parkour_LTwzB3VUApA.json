@@ -1,0 +1,30 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Parkour_LTwzB3VUApA",
+ "duration_sec": 110.74,
+ "label": {
+  "name": "parkour",
+  "score": 0.86
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    9.0,
+    14.0
+   ]
+  },
+  {
+   "segment": [
+    40.0,
+    45.0
+   ]
+  },
+  {
+   "segment": [
+    60.0,
+    65.0
+   ]
+  }
+ ]
+}

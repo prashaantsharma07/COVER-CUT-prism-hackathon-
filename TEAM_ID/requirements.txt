@@ -1,0 +1,10 @@
+# Runtime dependencies for run.sh (plus ffmpeg/ffprobe on PATH).
+# Before submitting, replace this file with exact pins:  pip freeze > requirements.txt
+numpy>=1.24
+torch>=2.1
+einops>=0.6
+timm>=0.9
+transformers>=4.40
+sentencepiece
+protobuf
+pillow

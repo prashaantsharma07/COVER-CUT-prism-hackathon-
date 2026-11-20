@@ -1,0 +1,4399 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "P28_22",
+ "duration_sec": 146.82,
+ "label": {
+  "name": "cooking",
+  "score": 1.0
+ },
+ "actions": [
+  {
+   "segment": [
+    130.0,
+    133.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.63
+  },
+  {
+   "segment": [
+    125.0,
+    128.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.51
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.48
+  },
+  {
+   "segment": [
+    124.0,
+    130.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.45
+  },
+  {
+   "segment": [
+    128.0,
+    134.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.39
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.37
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.37
+  },
+  {
+   "segment": [
+    119.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.28
+  },
+  {
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.27
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.26
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "package",
+   "score": 0.18
+  },
+  {
+   "segment": [
+    2.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.18
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.18
+  },
+  {
+   "segment": [
+    133.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.17
+  },
+  {
+   "segment": [
+    2.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.17
+  },
+  {
+   "segment": [
+    136.0,
+    142.0
+   ],
+   "verb": "throw",
+   "noun": "napkin",
+   "score": 0.16
+  },
+  {
+   "segment": [
+    122.0,
+    124.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.16
+  },
+  {
+   "segment": [
+    137.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.14
+  },
+  {
+   "segment": [
+    136.0,
+    142.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.14
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.13
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.12
+  },
+  {
+   "segment": [
+    120.0,
+    126.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.11
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.11
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.1
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.1
+  },
+  {
+   "segment": [
+    122.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.09
+  },
+  {
+   "segment": [
+    76.0,
+    102.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.08
+  },
+  {
+   "segment": [
+    33.0,
+    41.0
+   ],
+   "verb": "adjust",
+   "noun": "oven",
+   "score": 0.08
+  },
+  {
+   "segment": [
+    137.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "napkin",
+   "score": 0.08
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.08
+  },
+  {
+   "segment": [
+    78.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "throw",
+   "noun": "package",
+   "score": 0.07
+  },
+  {
+   "segment": [
+    78.0,
+    101.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    138.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "paper",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "pat",
+   "noun": "spatula",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.06
+  },
+  {
+   "segment": [
+    40.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    34.0,
+    42.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    2.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    139.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "napkin",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "adjust",
+   "noun": "oven",
+   "score": 0.05
+  },
+  {
+   "segment": [
+    32.0,
+    42.0
+   ],
+   "verb": "adjust",
+   "noun": "oven",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    2.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "turn-off",
+   "noun": "hob",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.04
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "pat",
+   "noun": "spatula",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    136.0,
+    142.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    0.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "pat",
+   "noun": "spatula",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    66.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.03
+  },
+  {
+   "segment": [
+    40.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    36.0,
+    40.0
+   ],
+   "verb": "adjust",
+   "noun": "oven",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    34.0,
+    40.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    136.0,
+    142.0
+   ],
+   "verb": "throw",
+   "noun": "paper",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    34.0,
+    37.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    119.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "knife",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.02
+  },
+  {
+   "segment": [
+    33.0,
+    41.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    66.0,
+    75.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    42.0,
+    58.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    46.0,
+    50.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    42.0,
+    70.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "package",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    135.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    38.0,
+    42.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    66.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "pat",
+   "noun": "spatula",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    55.0,
+    64.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    63.0,
+    67.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    78.0,
+    108.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    54.0,
+    64.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    76.0,
+    110.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.01
+  },
+  {
+   "segment": [
+    75.0,
+    78.0
+   ],
+   "verb": "press",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    34.0,
+    38.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    122.0,
+    126.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    136.0,
+    142.0
+   ],
+   "verb": "throw",
+   "noun": "towel:kitchen",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    33.0,
+    36.0
+   ],
+   "verb": "turn-off",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "pat",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    127.0,
+    130.0
+   ],
+   "verb": "fill",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    41.0,
+    72.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    20.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "remove",
+   "noun": "sausage",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    127.0,
+    130.0
+   ],
+   "verb": "fill",
+   "noun": "bottle",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    84.0,
+    88.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    11.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    11.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "fill",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    70.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    16.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    143.0
+   ],
+   "verb": "dry",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    34.0,
+    40.0
+   ],
+   "verb": "turn-down",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "remove",
+   "noun": "package",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "press",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "cheese",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    137.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "towel:kitchen",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    54.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    33.0,
+    40.0
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    130.0,
+    133.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "turn-off",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    50.0,
+    61.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "turn-off",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    59.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "wash",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    35.0,
+    41.0
+   ],
+   "verb": "turn-down",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    116.0,
+    119.0
+   ],
+   "verb": "insert",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "insert",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "peel",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "paper",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "turn-down",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    139.0
+   ],
+   "verb": "open",
+   "noun": "package",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "turn",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    7.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    18.0,
+    21.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    114.0,
+    120.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    27.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "cheese",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    62.0,
+    68.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    50.0,
+    62.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "fill",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    98.0,
+    101.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    27.0,
+    31.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "turn-down",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    34.0,
+    40.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "adjust",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    113.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    23.0,
+    28.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "shake",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    134.0,
+    136.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    35.0,
+    38.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    32.0,
+    36.0
+   ],
+   "verb": "turn",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    107.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    51.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    10.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    106.0,
+    110.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    68.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    100.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "take",
+   "noun": "fork",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    122.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    119.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    106.0,
+    110.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    128.0,
+    134.0
+   ],
+   "verb": "close",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    77.0,
+    80.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    16.0,
+    20.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    133.0,
+    135.0
+   ],
+   "verb": "remove",
+   "noun": "knife",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "take",
+   "noun": "clip",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    109.0,
+    112.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    52.0,
+    56.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    67.0
+   ],
+   "verb": "divide",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    126.0,
+    132.0
+   ],
+   "verb": "adjust",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    78.0,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    138.0,
+    140.0
+   ],
+   "verb": "throw",
+   "noun": "towel:kitchen",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    137.0,
+    141.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "turn-down",
+   "noun": "oven",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    73.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    126.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "remove",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "scoop",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    74.0,
+    77.0
+   ],
+   "verb": "scrape",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    61.0,
+    65.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    135.0,
+    137.0
+   ],
+   "verb": "move",
+   "noun": "package",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    97.0,
+    103.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    61.0,
+    65.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    78.0,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "remove",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    127.0,
+    130.0
+   ],
+   "verb": "fill",
+   "noun": "jug",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "remove",
+   "noun": "sausage",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "mix",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "insert",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    117.0,
+    119.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    127.0,
+    130.0
+   ],
+   "verb": "fill",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    43.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    66.0,
+    75.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    12.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    34.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    74.0,
+    78.0
+   ],
+   "verb": "scrape",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    136.0
+   ],
+   "verb": "insert",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    18.0,
+    22.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "check",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    90.0,
+    94.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    113.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    106.0,
+    110.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    45.0
+   ],
+   "verb": "cut",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    88.0,
+    96.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    135.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "sausage",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    146.0
+   ],
+   "verb": "wait",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    45.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    13.0,
+    34.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "take",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    120.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    126.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    70.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "press",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    22.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    71.0,
+    75.0
+   ],
+   "verb": "pat",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    42.0,
+    46.0
+   ],
+   "verb": "cut",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    127.0,
+    129.0
+   ],
+   "verb": "fill",
+   "noun": "kettle",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    121.0,
+    123.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    83.0,
+    89.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    76.0,
+    80.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    124.0,
+    130.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    50.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    50.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    137.0,
+    139.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "turn-down",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "scoop",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    59.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    62.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    90.0,
+    98.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    112.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    50.0,
+    56.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    50.0,
+    62.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    142.0,
+    146.0
+   ],
+   "verb": "wait",
+   "noun": "rice",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    70.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    22.0,
+    26.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    47.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    114.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    7.0
+   ],
+   "verb": "sort",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    119.0,
+    121.0
+   ],
+   "verb": "press",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    30.0,
+    34.0
+   ],
+   "verb": "scoop",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    100.0,
+    108.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    64.0,
+    68.0
+   ],
+   "verb": "divide",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    24.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "scoop",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    102.0,
+    107.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    116.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "check",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    24.0,
+    27.0
+   ],
+   "verb": "sort",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "cook",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    65.0,
+    68.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    80.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    88.0,
+    92.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "soak",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    129.0,
+    131.0
+   ],
+   "verb": "turn-on",
+   "noun": "plate",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "wait",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    146.0
+   ],
+   "verb": "check",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "close",
+   "noun": "package",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    89.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    116.0
+   ],
+   "verb": "mix",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    136.0,
+    138.0
+   ],
+   "verb": "take",
+   "noun": "napkin",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    87.0,
+    90.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    93.0,
+    96.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    125.0,
+    127.0
+   ],
+   "verb": "take",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    98.0,
+    101.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    67.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    79.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "wash",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "mix",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    146.0
+   ],
+   "verb": "look",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    68.0,
+    72.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    132.0,
+    134.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "wash",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    90.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    128.0,
+    132.0
+   ],
+   "verb": "wash",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    128.0,
+    130.0
+   ],
+   "verb": "adjust",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    98.0,
+    102.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    102.0,
+    105.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    88.0,
+    94.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "peel",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    122.0
+   ],
+   "verb": "remove",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    124.0
+   ],
+   "verb": "wash",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    120.0,
+    122.0
+   ],
+   "verb": "remove",
+   "noun": "chilli",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    46.0,
+    51.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "mix",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "check",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    100.0,
+    103.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    125.0,
+    128.0
+   ],
+   "verb": "open",
+   "noun": "tap",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    122.0,
+    126.0
+   ],
+   "verb": "dry",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    8.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    27.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    84.0,
+    87.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    44.0,
+    48.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    110.0,
+    114.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "cook",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    118.0,
+    122.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "wait",
+   "noun": "rice",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    114.0,
+    118.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "pat",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "eat",
+   "noun": "hand",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    144.0
+   ],
+   "verb": "drink",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    72.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "turn",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    106.0,
+    110.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "sort",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    123.0,
+    125.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "cut",
+   "noun": "corn",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    92.0,
+    96.0
+   ],
+   "verb": "mix",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    94.0,
+    98.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "turn",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    116.0,
+    120.0
+   ],
+   "verb": "insert",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    141.0,
+    143.0
+   ],
+   "verb": "check",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "mix",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    96.0,
+    100.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    115.0,
+    117.0
+   ],
+   "verb": "cut",
+   "noun": "courgette",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    98.0,
+    102.0
+   ],
+   "verb": "remove",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "remove",
+   "noun": "spatula",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    104.0,
+    108.0
+   ],
+   "verb": "cut",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "flip",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    140.0,
+    142.0
+   ],
+   "verb": "dry",
+   "noun": "box",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    6.0,
+    10.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    4.0,
+    8.0
+   ],
+   "verb": "sort",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "cut",
+   "noun": "carrot",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    142.0,
+    144.0
+   ],
+   "verb": "look",
+   "noun": "water",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "check",
+   "noun": "food",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "turn",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    82.0,
+    86.0
+   ],
+   "verb": "divide",
+   "noun": "potato",
+   "score": 0.0
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "mix",
+   "noun": "vegetable",
+   "score": 0.0
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    0.98,
+    5.02
+   ]
+  },
+  {
+   "segment": [
+    32.98,
+    37.02
+   ]
+  },
+  {
+   "segment": [
+    122.98,
+    127.02
+   ]
+  },
+  {
+   "segment": [
+    130.98,
+    135.02
+   ]
+  },
+  {
+   "segment": [
+    135.98,
+    140.02
+   ]
+  }
+ ]
+}

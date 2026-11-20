@@ -1,0 +1,42 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Surfing_G7lPf1gF-W4",
+ "duration_sec": 204.13,
+ "label": {
+  "name": "surfing",
+  "score": 0.89
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    1.0,
+    6.0
+   ]
+  },
+  {
+   "segment": [
+    66.0,
+    71.0
+   ]
+  },
+  {
+   "segment": [
+    141.0,
+    146.0
+   ]
+  },
+  {
+   "segment": [
+    165.0,
+    170.0
+   ]
+  },
+  {
+   "segment": [
+    186.0,
+    196.0
+   ]
+  }
+ ]
+}

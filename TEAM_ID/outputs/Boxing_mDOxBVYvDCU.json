@@ -1,0 +1,36 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Boxing_mDOxBVYvDCU",
+ "duration_sec": 135.0,
+ "label": {
+  "name": "boxing",
+  "score": 0.77
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    6.0,
+    11.0
+   ]
+  },
+  {
+   "segment": [
+    16.0,
+    21.0
+   ]
+  },
+  {
+   "segment": [
+    32.0,
+    37.0
+   ]
+  },
+  {
+   "segment": [
+    63.0,
+    68.0
+   ]
+  }
+ ]
+}

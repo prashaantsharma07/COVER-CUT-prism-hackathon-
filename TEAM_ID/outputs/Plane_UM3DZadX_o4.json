@@ -1,0 +1,24 @@
+{
+ "team_id": "TEAM_ID_PLACEHOLDER",
+ "video_id": "Plane_UM3DZadX_o4",
+ "duration_sec": 96.32,
+ "label": {
+  "name": "jumping",
+  "score": 0.36
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    73.0,
+    78.0
+   ]
+  },
+  {
+   "segment": [
+    88.0,
+    93.0
+   ]
+  }
+ ]
+}
